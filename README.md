@@ -2,8 +2,8 @@
 I am a Principal Software Engineer at [QsrSoft](https://qsrsoft.com/). 
 
 - 🌐 My [website](https://dakotalewallen.me)
-- 🐘 My [mastodon](https://mstdn.social/@therealdakotal)
-- 🖋 My [substack](https://dakotalewallen.substack.com/)
+- 🐘 My [mastodon](https://hachyderm.io/@therealdakotal)
+- 🖋 My [substack](https://makingituptech.substack.com/)
 
 ---
 <p align = "center">
